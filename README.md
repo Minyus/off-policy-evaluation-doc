@@ -11,12 +11,19 @@ headingDivider: 1
 # What is Policy?
 
 Policy = How to determine which item to recommend
-- Rule-based policy (Exploit)
+
+# Policies with or without randomness
+
+Policies without randomness (always take the same action)
+- Rule-based policy -> Exploit
   - (e.g. games for teenagers, Apple Airpods for iPhone users, etc.) 
-- Random assignment (Explore)
-- Choose the item with highest probability based on a Machine Learning Model (Exploit)
-- Multi-armed Bandit (Explore & Exploit)
-  - Reinforcement Learning
+- Always choose the item with highest probability estimated by a Machine Learning Model -> Exploit
+
+Policies with randomness (throw a dice)
+- Uniformly random assignment (throw an unbiased dice) -> Explore
+- Randomly choose the item based on probability estimated by a Machine Learning Model (throw biased dice) -> Explore & Exploit
+- Multi-armed Bandit (throw biased dice) -> Explore & Exploit
+  - Methods: Epsilon Greedy, Upper Confidence Bound, Thompson Sampling, etc.
 
 # Policy evaluation
 
