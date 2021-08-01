@@ -27,6 +27,13 @@ Policies with randomness (throw a dice)
 
 ![bg 90% right:10%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUY97spTjTr8zFRxMTiwtCyK1-hCFCT8wHjknhYbZ-2NWCdivNNl2JfaozhO1kqKje9BoC6Q3TzA0&usqp=CAU)
 
+# Why randomness?
+
+Explore
+- Keep learning, keep open to discoveries, and adapt to changes!
+
+![h:400px](https://miro.medium.com/max/875/1*bpE-3aBYsetOLL0GG8pGDQ.jpeg)
+
 # Policy evaluation
 
 Online policy evaluation
