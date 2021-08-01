@@ -36,7 +36,7 @@ Proposed Offline policy evaluation methods:
 # Replay Method (RM)
 
 Replay Method (RM)
-- Use fraction of the users with recommended item happens to match the random assignment
+- Use fraction of users with recommended item matches the random assignment
 - Requires uniform random assignment
 - Used by Netflix around 2017: [Artwork Personalization at Netflix](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
 
@@ -46,12 +46,14 @@ Replay Method (RM)
 # Inverse Probability Weighting (IPW)
 
 Inverse Probability Weighting (IPW)
-- Weight the samples by the inverse probability (propensity) to be recommended, e.g.:
-  - for item A with propensity = 0.5 (50%), weight by 2
-  - for item B with propensity = 0.1 (10%), weight by 10
-  - for item C with propensity = 0.001, weight by 1000 (should be clipped)
+- Weight each sample by inverse probability to be recommended.
+  - e.g. for item A with propensity = 0.2 (20%), weight by 5
 - Requires probability (propensity) to be recommended
 - Unstable if the propensity is near 0% (or 100%)
+
+![bg 100% right:50%](https://miro.medium.com/max/788/1*t_rbWJNhM7u-3h3uBi301g.jpeg)
+
+[Source: Solving Simpson’s Paradox with Inverse Probability Weighting](https://towardsdatascience.com/solving-simpsons-paradox-with-inverse-probability-weighting-79dbb1395597)
 
 # Direct Method (DM)
 
@@ -61,8 +63,11 @@ Direct Method (DM)
 
 # Doubly Robust (DR)
 
-- Combine both DM and IPW
-- Mitigate unstability of IPW
+- Combine DM and IPW
+
+[Source: Causally regularized machine learning](https://www.slideshare.net/ssuser2ff343/causally-regularized-machine-learning)
+
+![bg 80% right:70%](https://image.slidesharecdn.com/causallyregularizedmachinelearning-190826085536/95/causally-regularized-machine-learning-44-638.jpg?cb=1566809782)
 
 # Python packages for OPE
 
