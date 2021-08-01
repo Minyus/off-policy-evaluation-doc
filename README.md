@@ -17,11 +17,11 @@ Policy = How to determine which item to recommend
 Policies without randomness (always take the same action)
 - Rule-based policy -> Exploit
   - (e.g. games for teenagers, Apple Airpods for iPhone users, etc.) 
-- Always choose the item with highest probability estimated by a Machine Learning Model -> Exploit
+- Always choose the item with highest probability inferred by an ML Model -> Exploit
 
 Policies with randomness (throw a dice)
 - Uniformly random assignment (throw an unbiased dice) -> Explore
-- Randomly choose the item based on probability estimated by a Machine Learning Model (throw biased dice) -> Explore & Exploit
+- Randomly choose the item based on probability distribution (softmax) inferred by an ML Model (throw biased dice) -> Explore & Exploit
 - Multi-armed Bandit (throw biased dice) -> Explore & Exploit
   - Epsilon Greedy, Upper Confidence Bound, Thompson Sampling, etc.
 
