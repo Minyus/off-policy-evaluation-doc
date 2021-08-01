@@ -23,7 +23,9 @@ Policies with randomness (throw a dice)
 - Uniformly random assignment (throw an unbiased dice) -> Explore
 - Randomly choose the item based on probability estimated by a Machine Learning Model (throw biased dice) -> Explore & Exploit
 - Multi-armed Bandit (throw biased dice) -> Explore & Exploit
-  - Methods: Epsilon Greedy, Upper Confidence Bound, Thompson Sampling, etc.
+  - Epsilon Greedy, Upper Confidence Bound, Thompson Sampling, etc.
+
+![bg 90% right:10%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUY97spTjTr8zFRxMTiwtCyK1-hCFCT8wHjknhYbZ-2NWCdivNNl2JfaozhO1kqKje9BoC6Q3TzA0&usqp=CAU)
 
 # Policy evaluation
 
