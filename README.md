@@ -48,6 +48,10 @@ Explore
 ![h:500px](https://images.squarespace-cdn.com/content/v1/54e50c15e4b058fc6806d068/1601155197091-OUHIGTAWWVZLYWVSW55T/thompson_sampling_animated.gif)
 ![bg 100% right:50%](https://miro.medium.com/max/1400/1*3RH_JSGiqdzbZiJq-4hBcQ.png)
 
+# Randomness over Time
+
+![h:500px](_doc_images/time_series.drawio.svg)
+
 # Policy evaluation
 
 Online policy evaluation
