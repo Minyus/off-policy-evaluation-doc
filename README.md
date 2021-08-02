@@ -58,7 +58,7 @@ Offline policy evaluation (OPE)
 
 Proposed Offline policy evaluation methods:
 - Replay Method (RM)
-- Inverse Probability Weighting (IPW) a.k.a Inverse Probability Scoring (IPS)
+- Inverse Probability Weighting (IPW) a.k.a Inverse Propensity Scoring (IPS)
 - Direct Method (DM)
 - Doubly Robust (DR)
 - and many more
