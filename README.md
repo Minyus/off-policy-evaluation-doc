@@ -36,7 +36,7 @@ Explore
 
 # Discrete Uniform Distribution
 
-![h:400px](https://lh3.googleusercontent.com/proxy/ybsGer_5n_P4OQNB9qG1Y_ouCjhTBBWAb5xiySoSNjeyqHCWEbED6CBczpp_qPW_vifLEBu92YN9rHFAhovh)
+![h:400px](https://www.newtechdojo.com/wp-content/uploads/2020/06/Pro-Pic-1-1024x581.png)
 ![bg 100% right:20%](https://dictionary.cambridge.org/images/thumb/dice_noun_002_10624.jpg?version=5.0.180)
 
 # Distribution based on Softmax
