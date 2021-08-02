@@ -34,6 +34,20 @@ Explore
 
 ![h:400px](https://miro.medium.com/max/875/1*bpE-3aBYsetOLL0GG8pGDQ.jpeg)
 
+# Discrete Uniform Distribution
+
+![h:400px](https://lh3.googleusercontent.com/proxy/ybsGer_5n_P4OQNB9qG1Y_ouCjhTBBWAb5xiySoSNjeyqHCWEbED6CBczpp_qPW_vifLEBu92YN9rHFAhovh)
+![bg 100% right:20%](https://dictionary.cambridge.org/images/thumb/dice_noun_002_10624.jpg?version=5.0.180)
+
+# Distribution based on Softmax
+
+![h:500px](https://miro.medium.com/max/875/1*ufyy7y9vZt-PDQUYvCIjYw.png)
+
+# Beta Distribution for Thompson Sampling
+
+![h:500px](https://images.squarespace-cdn.com/content/v1/54e50c15e4b058fc6806d068/1601155197091-OUHIGTAWWVZLYWVSW55T/thompson_sampling_animated.gif)
+![bg 100% right:50%](https://miro.medium.com/max/1400/1*3RH_JSGiqdzbZiJq-4hBcQ.png)
+
 # Policy evaluation
 
 Online policy evaluation
