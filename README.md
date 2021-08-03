@@ -112,11 +112,11 @@ Direct Method (DM)
 # Simplest way for OPE
 
 1. Apply random assignment for subset of users
-2. Use Replay Method to evaluate your new model
+2. Use Replay Method to evaluate the new model
 
 # References
 
-[Artwork Personalization at NetflixArtwork Personalization at Netflix](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
+[Artwork Personalization at Netflix](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
 
 [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](https://arxiv.org/pdf/1003.5956.pdf)
 
