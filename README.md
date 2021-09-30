@@ -58,7 +58,7 @@ Online policy evaluation
 - Evaluate based on Randomized Controlled Trial (RCT) or A/B Testing of policies
 
 Offline policy evaluation (OPE)
-- Counterfacturial: What if a new policy (model) was used?
+- Counterfactual: What if a new policy (model) was used?
 
 Proposed Offline policy evaluation methods:
 - Replay Method (RM)
